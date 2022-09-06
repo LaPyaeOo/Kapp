@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kapp</string>
+    <string name="welcomeTxt">Welcome</string>
+    <string name="labelText">Please enter your name</string>
+    <string name="hintText">e.g. John</string>
+    <string name="title">Quiz App!</string>
+    <string name="btnText">START</string>
+    <string name="questionName">What country does this flag belong to?</string>
+    <string name="imContentDes">Quiz Image</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result_tv">Result</string>
+    <string name="prize_image">prize image</string>
+    <string name="title_tv">Hey, Congratulations!</string>
+    <string name="name_tv">Dennis</string>
+    <string name="mark_tv">Your Score is 0 out of </string>
+    <string name="btn_text">FINISH</string>
+    <string name="total_question">9</string>
+</resources>
